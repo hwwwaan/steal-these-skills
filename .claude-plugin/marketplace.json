@@ -1,0 +1,22 @@
+{
+  "name": "shoocream",
+  "description": "슈크림마을이 만든 대학생 AI 스킬 모음 — AI skills for college students by Shoocream Village",
+  "owner": {
+    "name": "Shoocream Village (슈크림마을)"
+  },
+  "plugins": [
+    {
+      "name": "steal-these-skills",
+      "source": "./",
+      "description": "대학생 AI 스킬 4개 — 경험 정리 STAR 카드 · 벼락치기 · 점심 메뉴 · 감정 섞인 카톡 순화. 스킬, 스틸하슈 🥷",
+      "version": "1.0.0",
+      "author": {
+        "name": "파도 · 다운 (슈크림마을)"
+      },
+      "homepage": "https://github.com/hwwwaan/steal-these-skills",
+      "repository": "https://github.com/hwwwaan/steal-these-skills",
+      "license": "MIT",
+      "keywords": ["college-students", "korean", "study-plan", "resume", "star-method", "message-rewrite", "lunch"]
+    }
+  ]
+}
