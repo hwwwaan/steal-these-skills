@@ -2,7 +2,7 @@
 
 **Four AI skills for college students. Go ahead — steal them.**
 
-Made by two Korean college students at *Shoocream Village* (슈크림마을). The skills are written in Korean
+Made by Pado and Daun at *Shoocream Village* (슈크림마을) in Korea. The skills are written in Korean
 and work in Notion AI, Claude (web, app and Claude Code), ChatGPT projects, Codex, Cursor and Gemini CLI.
 
 ![Before and after using the skills](assets/before-after.png)
