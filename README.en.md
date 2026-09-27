@@ -14,7 +14,7 @@ and work with Notion AI, ChatGPT/Claude projects, and Claude Code.
 
 ## Install
 
-- **Notion AI** — duplicate the skill page, then `···` → *Use with AI* → *Use as AI skill*
+- **Notion AI** — duplicate the [Notion template](https://pretty-cement-6c1.notion.site/3e84605a116d8055973edf4fdb40aa86), then `···` → *Use with AI* → *Use as AI skill*
 - **ChatGPT / Claude projects** — upload the skill's `SKILL.md` and tell the project to follow it
 - **Claude Code** — `cp -r skills/* ~/.claude/skills/`
 
