@@ -7,7 +7,7 @@ AI 스킬로 만들어 뒀습니다. 가져가서 쓰세요. 그러라고 만들
 
 노션 AI · ChatGPT · Claude 어디서든 쓸 수 있습니다. [English](README.en.md)
 
-<!-- TODO: 비포&애프터 이미지 (스킬 쓰기 전/후) 를 여기 넣는다 — 첫 화면에 결과가 보여야 한다 -->
+![스킬, 스틸하슈 — 쓰기 전과 쓴 뒤](assets/before-after.png)
 
 ## 스킬 4개
 
