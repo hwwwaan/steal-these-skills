@@ -25,6 +25,9 @@ Most AI helpers go wrong on scope, so every skill states its limits as plainly a
 
 ## Install
 
+New here? The [usage guide](https://pretty-cement-6c1.notion.site/3e94605a116d800fa5f4f759d687e422) (Korean, with screenshots) walks through the one-time setup for Notion AI, Claude and ChatGPT.
+Curious how the skills were made and fixed? See [how we built them](https://pretty-cement-6c1.notion.site/3e94605a116d80a2977efdf99b163382) (Korean).
+
 **Claude Code · Codex · Cursor · Gemini CLI**
 
 ```bash
